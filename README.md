@@ -12,4 +12,99 @@
   
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=cs,dotnet,postgres,redis,docker,kubernetes,azure,git,visualstudio,vscode,postman,powershell,html,css,sql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cs,dotnet,postgres,mongodb,redis,azure,kubernetes,docker,grafana,prometheus,git,github,githubactions,gitlab,visualstudio,vscode,postman,angular,js,html,css,powershell,linux)](https://skills.thijs.gg)
+
+---
+
+<!-- start work project section -->
+<!-- <details> -->
+
+<h3 align="left">Work Projects:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+      <th>Certificates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Developer-Toolkit'>.NET-Developer-Toolkit</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Microservices'>.NET-Microservices</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Web-Api'>.NET-Web-Api</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Redis-Db'>.NET-Redis-Db</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-HealthChecks'>.NET-HealthChecks</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-gRPC'>.NET-gRPC</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Blazor-Ecommerce'>.NET-Blazor-Ecommerce</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Angular'>.NET-Angular</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/gRPC-API-Microservices'>gRPC-API-Microservices</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Node.js-GitHub-Actions</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/Codility'>Codility</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+    </tr>    
+  </tbody>
+</table>
+
+<!--</details> -->
+<!-- end work project section -->
