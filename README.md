@@ -33,9 +33,9 @@
   <tbody>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Developer-Toolkit'>.NET-Developer-Toolkit</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
+      <td>C#, .NET, Visual Studio, VS Code, PowerShell, Linux</td>
+      <td>Dependency Injection, Secrets, JSON, Repository Pattern, DTOs, Docker, Git, CI/CD, Azure</td>
+      <td><a href='https://github.com/VKalenski/.NET-Developer-Toolkit/blob/main/10_Certificate/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Microservices'>.NET-Microservices</a></td>
