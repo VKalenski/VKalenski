@@ -39,9 +39,9 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Microservices'>.NET-Microservices</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
+      <td>C#, .NET, Visual Studio, VS Code, Postman, PowerShell, Linux</td>
+      <td>Microservices</td>
+      <td><a href='https://github.com/VKalenski/.NET-Microservices/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api'>.NET-Web-Api</a></td>
