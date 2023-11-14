@@ -45,9 +45,9 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api'>.NET-Web-Api</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
+      <td>C#, .NET, Visual Studio, VS Code, Postman, PowerShell</td>
+      <td>WebApi - SDK: 3.1, 5.0, 6.0, 7.0, 8,0</td>
+      <td><a href='https://github.com/VKalenski/.NET-Web-Api/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Redis-Db'>.NET-Redis-Db</a></td>
@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Node.js-GitHub-Actions</a></td>
-      <td>C#, Node.js, VS Code, PowerShell</td>
+      <td>Node.js, VS Code, PowerShell</td>
       <td>GitHub Actions: build, test, deploy</td>
       <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
