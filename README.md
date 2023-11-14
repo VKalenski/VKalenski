@@ -93,9 +93,9 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Node.js-GitHub-Actions</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
+      <td>C#, Node.js, VS Code, PowerShell</td>
+      <td>GitHub Actions: build, test, deploy</td>
+      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Codility'>Codility</a></td>
