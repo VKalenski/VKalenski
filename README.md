@@ -98,6 +98,12 @@
       <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
+      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Docker & Kubernetes: The Practical Guide</a></td>
+      <td></td>
+      <td>GitHub Actions: build, test, deploy</td>
+      <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide/blob/main/17_Certificate/Certificate.pdf'>Certificate</a></td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/VKalenski/Codility'>Codility</a></td>
       <td>-</td>
       <td>-</td>
