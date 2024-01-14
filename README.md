@@ -64,10 +64,12 @@
       <td><a href='https://github.com/VKalenski/.NET-HealthChecks'>.NET-HealthChecks</a></td>
       <td>-</td>
       <td>-</td>
+      <td>-</td>
       <td><a href='-'>-</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-gRPC'>.NET-gRPC</a></td>
+      <td>-</td>
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
@@ -90,10 +92,12 @@
       <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
       <td>-</td>
       <td>-</td>
+      <td>-</td>
       <td><a href='-'>-</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/gRPC-API-Microservices'>gRPC-API-Microservices</a></td>
+      <td>-</td>
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
