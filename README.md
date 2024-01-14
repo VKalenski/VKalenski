@@ -9,7 +9,7 @@
 |--|--|
 
 ---
-  
+
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=cs,dotnet,postgres,mongodb,redis,azure,kubernetes,docker,grafana,prometheus,git,github,githubactions,gitlab,visualstudio,vscode,postman,angular,js,html,css,powershell,linux)](https://skills.thijs.gg)
@@ -25,6 +25,7 @@
   <thead>
     <tr>
       <th>Project Name</th>
+      <th>Platform</th>
       <th>Skills used</th>
       <th>Description</th>
       <th>Certificates</th>
@@ -33,24 +34,28 @@
   <tbody>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Developer-Toolkit'>.NET-Developer-Toolkit</a></td>
+      <td><a href='https://lesjackson.net/'>lesjackson</a></td>
       <td>C#, .NET, Visual Studio, VS Code, PowerShell, Linux</td>
       <td>Dependency Injection, Secrets, JSON, Repository Pattern, DTOs, Docker, Git, CI/CD, Azure</td>
       <td><a href='https://github.com/VKalenski/.NET-Developer-Toolkit/blob/main/10_Certificate/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Microservices'>.NET-Microservices</a></td>
+      <td><a href='https://lesjackson.net/'>lesjackson</a></td>
       <td>C#, .NET, Visual Studio, VS Code, Postman, PowerShell, Linux</td>
       <td>Microservices</td>
       <td><a href='https://github.com/VKalenski/.NET-Microservices/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api'>.NET-Web-Api</a></td>
+      <td><a href='https://www.udemy.com/course/net-core-31-web-api-entity-framework-core-jumpstart/'>Udemy</a></td>
       <td>C#, .NET, Visual Studio, VS Code, Postman, PowerShell</td>
       <td>WebApi - SDK: 3.1, 5.0, 6.0, 7.0, 8,0</td>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Redis-Db'>.NET-Redis-Db</a></td>
+      <td><a href='https://www.youtube.com/watch?v=GgyizgXwXAg'>YouTube</a></td>
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
@@ -69,12 +74,14 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Blazor-Ecommerce'>.NET-Blazor-Ecommerce</a></td>
+      <td><a href='https://www.udemy.com/course/blazor-ecommerce/'>Udemy</a></td>
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Angular'>.NET-Angular</a></td>
+      <td><a href='https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/'>Udemy</a></td>
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
@@ -93,22 +100,25 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Node.js-GitHub-Actions</a></td>
+      <td><a href='https://www.udemy.com/course/github-actions-the-complete-guide/'>Udemy</a></td>
       <td>Node.js, VS Code, PowerShell</td>
       <td>GitHub Actions: build, test, deploy</td>
       <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions/blob/main/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
-      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Docker & Kubernetes: The Practical Guide</a></td>
+      <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide'>Docker & Kubernetes: The Practical Guide</a></td>
+      <td><a href='https://www.udemy.com/course/docker-kubernetes-the-practical-guide/'>Udemy</a></td>
       <td></td>
       <td>GitHub Actions: build, test, deploy</td>
       <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide/blob/main/17_Certificate/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Codility'>Codility</a></td>
+      <td><a href='https://app.codility.com/programmers/'>Codility</a></td>
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
-    </tr>    
+    </tr>
   </tbody>
 </table>
 
