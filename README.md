@@ -117,6 +117,13 @@
       <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide/blob/main/17_Certificate/Certificate.pdf'>Certificate</a></td>
     </tr>
     <tr>
+      <td><a href='https://github.com/VKalenski/DevSecOps'>DevSecOps</a></td>
+      <td><a href='https://www.udemy.com/course/devsecops-fundamentals/learn/quiz/5562574#overview'>Udemy</a></td>
+      <td></td>
+      <td></td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/VKalenski/AZ-204'>AZ-204 Developing Solutions for Microsoft Azure</a></td>
       <td><a href='https://www.udemy.com/course/70532-azure/'>Udemy</a></td>
       <td>C#, .NET, VS Code, PowerShell, Azure Portal</td>
