@@ -112,15 +112,29 @@
     <tr>
       <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide'>Docker & Kubernetes: The Practical Guide</a></td>
       <td><a href='https://www.udemy.com/course/docker-kubernetes-the-practical-guide/'>Udemy</a></td>
+      <td>VS Code, Docker Desktop, Azure</td>
       <td></td>
-      <td>GitHub Actions: build, test, deploy</td>
       <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide/blob/main/17_Certificate/Certificate.pdf'>Certificate</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/AZ-204'>AZ-204 Developing Solutions for Microsoft Azure</a></td>
+      <td><a href='https://www.udemy.com/course/70532-azure/'>Udemy</a></td>
+      <td>C#, .NET, VS Code, PowerShell, Azure Portal</td>
+      <td></td>
+      <td><a href='-'>-</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/Angular-The-Complete-Guide'>Angular - The Complete Guide</a></td>
+      <td><a href='https://www.udemy.com/course/the-complete-guide-to-angular-2/'>Udemy</a></td>
+      <td>Angular, VS Code, PowerShell</td>
+      <td></td>
+      <td><a href='-'>-</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Codility'>Codility</a></td>
       <td><a href='https://app.codility.com/programmers/'>Codility</a></td>
-      <td>-</td>
-      <td>-</td>
+      <td>C#, .NET, Visual Studio, VS Code</td>
+      <td>Different logical tasks</td>
       <td><a href='-'>-</a></td>
     </tr>
   </tbody>
