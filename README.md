@@ -56,15 +56,15 @@
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Redis-Db'>.NET-Redis-Db</a></td>
       <td><a href='https://www.youtube.com/watch?v=GgyizgXwXAg'>YouTube</a></td>
-      <td>-</td>
-      <td>-</td>
+      <td>C#, .NET, VS Code, Redis</td>
+      <td>Web API - SDK: 6.0</td>
       <td><a href='-'>-</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-HealthChecks'>.NET-HealthChecks</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td><a href='https://www.youtube.com/watch?v=p2faw9DCSsY'>YouTube</a></td>
+      <td>C#, .NET, VS Code, Postman</td>
+      <td>Web API - SDK: 5.0, 6.0</td>
       <td><a href='-'>-</a></td>
     </tr>
     <tr>
