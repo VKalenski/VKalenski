@@ -19,7 +19,7 @@
 <!-- start work project section -->
 <!-- <details> -->
 
-<h3 align="left">Work Projects:</h3>
+<h3 align="left">Infrastucture Courses:</h3>
 
 <table>
   <thead>
@@ -29,6 +29,58 @@
       <th>Skills used</th>
       <th>Description</th>
       <th>Certificates</th>
+      <th>Finish Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Node.js-GitHub-Actions</a></td>
+      <td><a href='https://www.udemy.com/course/github-actions-the-complete-guide/'>Udemy</a></td>
+      <td>Node.js, VS Code, PowerShell</td>
+      <td>GitHub Actions: build, test, deploy</td>
+      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions/blob/main/Certificate.pdf'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide'>Docker & Kubernetes: The Practical Guide</a></td>
+      <td><a href='https://www.udemy.com/course/docker-kubernetes-the-practical-guide/'>Udemy</a></td>
+      <td>VS Code, Docker Desktop, Azure</td>
+      <td></td>
+      <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide/blob/main/17_Certificate/Certificate.pdf'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/DevSecOps'>DevSecOps</a></td>
+      <td><a href='https://www.udemy.com/course/devsecops-fundamentals/learn/quiz/5562574#overview'>Udemy</a></td>
+      <td>VS Code, Docker, Terraform, Jenkins, K8s, Linux</td>
+      <td>Fundamentals DevSecOps</td>
+      <td><a href='https://github.com/VKalenski/DevSecOps/blob/main/Certificate.pdf'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/AZ-204'>AZ-204 Developing Solutions for Microsoft Azure</a></td>
+      <td><a href='https://www.udemy.com/course/70532-azure/'>Udemy</a></td>
+      <td>C#, .NET, VS Code, PowerShell, Azure Portal</td>
+      <td></td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h3 align="left">.NET & Angular, DBs:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Platform</th>
+      <th>Skills used</th>
+      <th>Description</th>
+      <th>Certificates</th>
+      <th>Finish Project</th>
     </tr>
   </thead>
   <tbody>
@@ -38,13 +90,14 @@
       <td>C#, .NET, Visual Studio, VS Code, PowerShell, Linux</td>
       <td>Dependency Injection, Secrets, JSON, Repository Pattern, DTOs, Docker, Git, CI/CD, Azure</td>
       <td><a href='https://github.com/VKalenski/.NET-Developer-Toolkit/blob/main/10_Certificate/Certificate.pdf'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
-    <tr>
       <td><a href='https://github.com/VKalenski/.NET-Microservices'>.NET-Microservices</a></td>
       <td><a href='https://lesjackson.net/'>lesjackson</a></td>
       <td>C#, .NET, Visual Studio, VS Code, Postman, PowerShell, Linux</td>
       <td>Microservices</td>
       <td><a href='https://github.com/VKalenski/.NET-Microservices/blob/main/Certificate.pdf'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api'>.NET-Web-Api</a></td>
@@ -52,6 +105,7 @@
       <td>C#, .NET, Visual Studio, VS Code, Postman, PowerShell</td>
       <td>WebApi - SDK: 3.1, 5.0, 6.0, 7.0, 8,0</td>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api/blob/main/Certificate.pdf'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Redis-Db'>.NET-Redis-Db</a></td>
@@ -59,6 +113,7 @@
       <td>C#, .NET, VS Code, Redis</td>
       <td>Web API - SDK: 6.0</td>
       <td><a href='-'>-</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-HealthChecks'>.NET-HealthChecks</a></td>
@@ -66,6 +121,7 @@
       <td>C#, .NET, VS Code, Postman</td>
       <td>Web API - SDK: 5.0, 6.0</td>
       <td><a href='-'>-</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-gRPC'>.NET-gRPC</a></td>
@@ -73,6 +129,7 @@
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Blazor-Ecommerce'>.NET-Blazor-Ecommerce</a></td>
@@ -80,20 +137,7 @@
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/.NET-Angular'>.NET-Angular</a></td>
-      <td><a href='https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/'>Udemy</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/gRPC-API-Microservices'>gRPC-API-Microservices</a></td>
@@ -101,34 +145,7 @@
       <td>-</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions'>Node.js-GitHub-Actions</a></td>
-      <td><a href='https://www.udemy.com/course/github-actions-the-complete-guide/'>Udemy</a></td>
-      <td>Node.js, VS Code, PowerShell</td>
-      <td>GitHub Actions: build, test, deploy</td>
-      <td><a href='https://github.com/VKalenski/Node.js-GitHub-Actions/blob/main/Certificate.pdf'>Certificate</a></td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide'>Docker & Kubernetes: The Practical Guide</a></td>
-      <td><a href='https://www.udemy.com/course/docker-kubernetes-the-practical-guide/'>Udemy</a></td>
-      <td>VS Code, Docker Desktop, Azure</td>
-      <td></td>
-      <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide/blob/main/17_Certificate/Certificate.pdf'>Certificate</a></td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/DevSecOps'>DevSecOps</a></td>
-      <td><a href='https://www.udemy.com/course/devsecops-fundamentals/learn/quiz/5562574#overview'>Udemy</a></td>
-      <td></td>
-      <td></td>
-      <td><a href='-'>-</a></td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/AZ-204'>AZ-204 Developing Solutions for Microsoft Azure</a></td>
-      <td><a href='https://www.udemy.com/course/70532-azure/'>Udemy</a></td>
-      <td>C#, .NET, VS Code, PowerShell, Azure Portal</td>
-      <td></td>
-      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Angular-The-Complete-Guide'>Angular - The Complete Guide</a></td>
@@ -136,13 +153,50 @@
       <td>Angular, VS Code, PowerShell</td>
       <td></td>
       <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
     </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Angular'>.NET-Angular</a></td>
+      <td><a href='https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/'>Udemy</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h3 align="left">Other:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Platform</th>
+      <th>Skills used</th>
+      <th>Description</th>
+      <th>Certificates</th>
+      <th>Finish Project</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><a href='https://github.com/VKalenski/Codility'>Codility</a></td>
       <td><a href='https://app.codility.com/programmers/'>Codility</a></td>
       <td>C#, .NET, Visual Studio, VS Code</td>
       <td>Different logical tasks</td>
       <td><a href='-'>-</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
   </tbody>
 </table>
