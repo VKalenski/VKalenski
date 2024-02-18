@@ -148,6 +148,22 @@
       <td>$${\color{red}False}$$</td>
     </tr>
     <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Angular'>.NET-Angular</a></td>
+      <td><a href='https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/'>Udemy</a></td>
+      <td>.NET, Angular, VS Code</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
+      <td>Udemy</td>
+      <td>.NET, Angular, VS Code</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/VKalenski/Angular-The-Complete-Guide'>Angular - The Complete Guide</a></td>
       <td><a href='https://www.udemy.com/course/the-complete-guide-to-angular-2/'>Udemy</a></td>
       <td>Angular, VS Code, PowerShell</td>
@@ -156,17 +172,9 @@
       <td>$${\color{red}False}$$</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
-      <td>$${\color{red}False}$$</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/.NET-Angular'>.NET-Angular</a></td>
-      <td><a href='https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/'>Udemy</a></td>
-      <td>-</td>
+      <td><a href='https://github.com/VKalenski/.NET-Angular'>Angular-App</a></td>
+      <td><a href='https://angular.io/docs'>Angular</a></td>
+      <td>Angular, VS Code</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
       <td>$${\color{red}False}$$</td>
