@@ -19,7 +19,7 @@
 <!-- start work project section -->
 <!-- <details> -->
 
-<h3 align="left">Infrastucture Courses:</h3>
+<h3 align="left">INFRASTRUCTURE</h3>
 
 <table>
   <thead>
@@ -65,12 +65,28 @@
       <td><a href='-'>-</a></td>
       <td>$${\color{red}False}$$</td>
     </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/Terraform'>Terraform</a></td>
+      <td><a href='https://developer.hashicorp.com/terraform/tutorials'>hashicorp.com</a></td>
+      <td>VS Code, Terminal</td>
+      <td>Official Terraform tutorial by HashiCorp</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{green}True}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/Vagrant'>Vagrant</a></td>
+      <td><a href='https://developer.hashicorp.com/vagrant/tutorials'>hashicorp.com</a></td>
+      <td>VS Code, Terminal</td>
+      <td>Official Vagrant tutorial by HashiCorp</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{green}True}$$</td>
+    </tr>
   </tbody>
 </table>
 
 ---
 
-<h3 align="left">.NET & Angular, DBs:</h3>
+<h3 align="left">.NET & DBs:</h3>
 
 <table>
   <thead>
@@ -132,6 +148,14 @@
       <td>$${\color{red}False}$$</td>
     </tr>
     <tr>
+      <td><a href='https://github.com/VKalenski/gRPC-API-Microservices'>gRPC-API-Microservices</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/VKalenski/.NET-Blazor-Ecommerce'>.NET-Blazor-Ecommerce</a></td>
       <td><a href='https://www.udemy.com/course/blazor-ecommerce/'>Udemy</a></td>
       <td>-</td>
@@ -139,10 +163,29 @@
       <td><a href='-'>-</a></td>
       <td>$${\color{red}False}$$</td>
     </tr>
+  </tbody>
+</table>
+
+---
+
+<h3 align="left">ANGULAR</h3>
+
+<table>
+  <thead>
     <tr>
-      <td><a href='https://github.com/VKalenski/gRPC-API-Microservices'>gRPC-API-Microservices</a></td>
-      <td>-</td>
-      <td>-</td>
+      <th>Project Name</th>
+      <th>Platform</th>
+      <th>Skills used</th>
+      <th>Description</th>
+      <th>Certificates</th>
+      <th>Finish Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/VKalenski/.NET-Angular'>Angular-App</a></td>
+      <td><a href='https://angular.io/docs'>Angular</a></td>
+      <td>Angular, VS Code</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
       <td>$${\color{red}False}$$</td>
@@ -171,20 +214,12 @@
       <td><a href='-'>-</a></td>
       <td>$${\color{red}False}$$</td>
     </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/.NET-Angular'>Angular-App</a></td>
-      <td><a href='https://angular.io/docs'>Angular</a></td>
-      <td>Angular, VS Code</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
-      <td>$${\color{red}False}$$</td>
-    </tr>
   </tbody>
 </table>
 
 ---
 
-<h3 align="left">Other:</h3>
+<h3 align="left">OTHER</h3>
 
 <table>
   <thead>
@@ -203,6 +238,14 @@
       <td><a href='https://app.codility.com/programmers/'>Codility</a></td>
       <td>C#, .NET, Visual Studio, VS Code</td>
       <td>Different logical tasks</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{green}True}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/CheatSheet'>Cheat Sheet</a></td>
+      <td><a href='-'>-</a></td>
+      <td>-</td>
+      <td>-</td>
       <td><a href='-'>-</a></td>
       <td>$${\color{green}True}$$</td>
     </tr>
