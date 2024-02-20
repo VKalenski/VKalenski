@@ -188,7 +188,7 @@
       <td>Angular, VS Code</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
-      <td>$${\color{red}False}$$</td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Angular'>.NET-Angular</a></td>
@@ -200,7 +200,7 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
-      <td>Udemy</td>
+      <td><a href='https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/'>Udemy</a></td>
       <td>.NET, Angular, VS Code</td>
       <td>-</td>
       <td><a href='-'>-</a></td>
