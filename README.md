@@ -1,4 +1,4 @@
-### Hi, I am Vilislav Kalenski!
+### Hi, I am <a href='https://vkalenski.github.io'>Vilislav Kalenski!</a>
 
 <a href="https://www.linkedin.com/in/vilislav-kalenski/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:vilislavkalenski@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -243,6 +243,14 @@
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/CheatSheet'>Cheat Sheet</a></td>
+      <td><a href='-'>-</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href='-'>-</a></td>
+      <td>$${\color{green}True}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/vkalenski.github.io'>vkalenski.github.io</a></td>
       <td><a href='-'>-</a></td>
       <td>-</td>
       <td>-</td>
