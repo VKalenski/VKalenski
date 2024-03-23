@@ -42,6 +42,22 @@
       <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
+      <td><a href='https://github.com/VKalenski/Mastering-GitHub-Actions'>Mastering-GitHub-Actions</a></td>
+      <td><a href='https://www.udemy.com/course/mastering-github-actions-beginner-to-expert/'>Udemy</a></td>
+      <td>VS Code, PowerShell</td>
+      <td>GitHub Actions</td>
+      <td><a href=''>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/VKalenski/GitHub-Actions-Guide'>GitHub Actions & Workflows Guide</a></td>
+      <td><a href='https://www.udemy.com/course/github-actions/'>Udemy</a></td>
+      <td>VS Code, PowerShell</td>
+      <td>GitHub Actions</td>
+      <td><a href=''>-</a></td>
+      <td>$${\color{red}False}$$</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide'>Docker & Kubernetes: The Practical Guide</a></td>
       <td><a href='https://www.udemy.com/course/docker-kubernetes-the-practical-guide/'>Udemy</a></td>
       <td>VS Code, Docker Desktop, Azure</td>
