@@ -46,7 +46,7 @@
       <td><a href='https://www.udemy.com/course/mastering-github-actions-beginner-to-expert/'>Udemy</a></td>
       <td>VS Code, PowerShell</td>
       <td>GitHub Actions</td>
-      <td><a href=''>-</a></td>
+      <td><a href=''>Certificate</a></td>
       <td>$${\color{red}False}$$</td>
     </tr>
     <tr>
