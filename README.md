@@ -199,7 +199,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/VKalenski/.NET-Angular'>Angular-App</a></td>
+      <td><a href='https://github.com/VKalenski/Angular-App'>Angular-App</a></td>
       <td><a href='https://angular.io/docs'>Angular</a></td>
       <td>Angular, VS Code</td>
       <td>-</td>
