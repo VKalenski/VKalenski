@@ -134,8 +134,8 @@
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api'>.NET-Web-Api</a></td>
       <td><a href='https://www.udemy.com/course/net-core-31-web-api-entity-framework-core-jumpstart/'>Udemy</a></td>
-      <td>C#, .NET, Visual Studio, VS Code, Postman, PowerShell</td>
-      <td>WebApi - SDK: 3.1, 5.0, 6.0, 7.0, 8,0</td>
+      <td>C#, .NET, MSSQL, Postgres, Docker, Visual Studio, VS Code, Postman, PowerShell</td>
+      <td>WebApi - SDK: 3.1, 5.0, 6.0, 7.0, 8.0, 9.0</td>
       <td><a href='https://github.com/VKalenski/.NET-Web-Api/blob/main/Certificate.pdf'>Certificate</a></td>
       <td>$${\color{green}True}$$</td>
     </tr>
