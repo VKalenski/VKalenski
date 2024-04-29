@@ -46,16 +46,16 @@
       <td><a href='https://www.udemy.com/course/mastering-github-actions-beginner-to-expert/'>Udemy</a></td>
       <td>VS Code, PowerShell</td>
       <td>GitHub Actions</td>
-      <td><a href=''>Certificate</a></td>
-      <td>$${\color{red}False}$$</td>
+      <td><a href='https://www.udemy.com/certificate/UC-1b3751ac-861f-4b00-93e7-bdb369b47ac5/'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/GitHub-Actions-Guide'>GitHub Actions & Workflows Guide</a></td>
       <td><a href='https://www.udemy.com/course/github-actions/'>Udemy</a></td>
       <td>VS Code, PowerShell</td>
       <td>GitHub Actions</td>
-      <td><a href=''>-</a></td>
-      <td>$${\color{red}False}$$</td>
+      <td><a href='https://www.udemy.com/certificate/UC-e4f42c1d-49b0-4fcc-b935-c1fb29a91a0b/'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Docker-Kubernetes-The-Practical-Guide'>Docker & Kubernetes: The Practical Guide</a></td>
