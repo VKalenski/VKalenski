@@ -217,10 +217,10 @@
     <tr>
       <td><a href='https://github.com/VKalenski/.NET-Angular-Ecommerce'>.NET-Angular-Ecommerce</a></td>
       <td><a href='https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/'>Udemy</a></td>
-      <td>.NET, Angular, VS Code</td>
-      <td>-</td>
-      <td><a href='-'>-</a></td>
-      <td>$${\color{red}False}$$</td>
+      <td>C#, .NET, MSSQL, Postgres, Docker, Visual Studio, VS Code, Postman, PowerShell</td>
+      <td>WebApi - 7.0, 8.0; Angular - 16.0, 17.0</td>
+      <td><a href='https://www.udemy.com/certificate/UC-fd07cf10-2f03-4251-9af4-c0d59770ca24/'>Certificate</a></td>
+      <td>$${\color{green}True}$$</td>
     </tr>
     <tr>
       <td><a href='https://github.com/VKalenski/Angular-The-Complete-Guide'>Angular - The Complete Guide</a></td>
