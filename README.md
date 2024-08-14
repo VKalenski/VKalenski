@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=cs,dotnet,mysql,sqlite,postgres,mongodb,redis,azure,kubernetes,jenkins,nginx,terraform,docker,grafana,prometheus,git,github,githubactions,gitlab,visualstudio,vscode,postman,angular,js,nodejs,html,css,powershell,linux,ubuntu,regex)](https://skills.thijs.gg)
+[![My Skills](https://https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,postgres,mongodb,redis,azure,kubernetes,jenkins,nginx,terraform,docker,grafana,prometheus,git,github,githubactions,gitlab,visualstudio,vscode,postman,angular,js,nodejs,html,css,powershell,linux,ubuntu,regex)](https://skills.thijs.gg)
 
 ---
 
