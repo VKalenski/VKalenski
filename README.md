@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,postgres,mongodb,redis,azure,kubernetes,jenkins,nginx,terraform,docker,grafana,prometheus,git,github,githubactions,gitlab,visualstudio,vscode,postman,angular,js,nodejs,html,css,powershell,linux,ubuntu,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,postgres,mongodb,redis,azure,kubernetes,jenkins,nginx,terraform,docker,grafana,prometheus,elasticsearch,git,github,githubactions,gitlab,rabbitmq,visualstudio,vscode,postman,angular,js,nodejs,html,css,powershell,bash,linux,ubuntu,regex,md)](https://skillicons.dev)
 
 
 rabbitmq
