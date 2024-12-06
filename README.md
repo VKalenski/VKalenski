@@ -14,6 +14,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,postgres,mongodb,redis,azure,kubernetes,jenkins,nginx,terraform,docker,grafana,prometheus,git,github,githubactions,gitlab,visualstudio,vscode,postman,angular,js,nodejs,html,css,powershell,linux,ubuntu,regex)](https://skillicons.dev)
 
+
+rabbitmq
+terraform
 ---
 
 <!-- start work project section -->
@@ -254,14 +257,6 @@
       <td><a href='https://app.codility.com/programmers/'>Codility</a></td>
       <td>C#, .NET, Visual Studio, VS Code</td>
       <td>Different logical tasks</td>
-      <td><a href='-'>-</a></td>
-      <td>$${\color{green}True}$$</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/VKalenski/CheatSheet'>Cheat Sheet</a></td>
-      <td><a href='-'>-</a></td>
-      <td>-</td>
-      <td>-</td>
       <td><a href='-'>-</a></td>
       <td>$${\color{green}True}$$</td>
     </tr>
